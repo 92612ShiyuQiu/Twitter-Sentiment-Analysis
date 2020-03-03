@@ -1,4 +1,5 @@
 data/
 data_1/
 .DS_Store
-
+new_data/training1600000.csv
+new_data/X_origin_posts.csv
