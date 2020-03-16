@@ -4,6 +4,9 @@ Directories & files: <br />
 application: <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tweets_Application.ipynb -> applying combined model to three topics, listing example tweets and showing percentage of positive, negative and neutral attitudes. <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tweets.ipynb -> collecting tweets of different topics from Twitter's API <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tweets-full-texts.ipynb -> collecting tweets with full text from Twitter's API using tweepy <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coronavirus_full_text_preprocess.ipynb -> preprocess all coronavirus tweets into word2vec format
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;full_text_tweets_preprocess.ipynb -> preprocess 2 other topics' tweets into word2vec format <br />
 <br />
 application_dataset: <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metoomovement.csv -> tweets related to #MeToo <br />
