@@ -1,6 +1,11 @@
-# Twitter Sentiment Analysis for Controversial Topics
-Directories & files: <br />
-<br />
+# Twitter Sentiment Analysis on Controversial Topics
+## Contributors:
+Kanglan Tang <br />
+Shiyu Qiu <br />
+Shiqi Wu <br />
+
+
+## Directories & files:
 application: <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tweets_Application.ipynb -> applying combined model to three topics, listing example tweets and showing percentage of positive, negative and neutral attitudes. <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tweets.ipynb -> collecting tweets of different topics from Twitter's API <br />
