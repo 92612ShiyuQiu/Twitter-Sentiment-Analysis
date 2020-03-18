@@ -1,4 +1,4 @@
-# cs175_project
+# Twitter Sentiment Analysis for Controversial Topics
 Directories & files: <br />
 <br />
 application: <br />
