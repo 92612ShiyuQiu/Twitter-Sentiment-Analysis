@@ -4,6 +4,8 @@ Kanglan Tang <br />
 Shiyu Qiu <br />
 Shiqi Wu <br />
 
+## Project Summary:
+Our project aims to implement sentiment analysis by analyzing Twitter data and classifying a given tweet as a positive or negative sentiment. It uses various machine learning techniques including Naive Bayes, Gradient Boosting, SVM, Logistic Regression, Neural Network, and RNN. After training the models and combining some selected models into a hybridized model, we applied it to analyze posts under popular hashtags on Twitter to help investigate public attitudes to controversial political, commercial, and social events related to the hashtags in a fast, convenient, and accurate way. For example, during the 2020 presidential election, the model can be applied to evaluating Twitter users’ preference for presidential candidates.
 
 ## Directories & files:
 application: <br />
