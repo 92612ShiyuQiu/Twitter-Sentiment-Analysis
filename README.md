@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis on Controversial Topics
 ## Contributors:
-Kanglan Tang @kanglant<br />
 Shiyu Qiu @92612ShiyuQiu <br />
+Kanglan Tang @kanglant<br />
 Shiqi Wu @sophiewu6<br />
 
 ## Project Summary:
